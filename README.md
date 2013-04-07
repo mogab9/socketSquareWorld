@@ -1,6 +1,6 @@
 socketSquareWorld
 =================
 
-A simple example of Socket.io.js implementation.
+A multiplayer drawing game using Socket.io.js. Move your colored square with arrow keys.
 
 ![Sample Image](http://mogab9.github.io/socketSquareWorld/img/readmeImg.jpg)
